@@ -1,0 +1,26 @@
+//
+//.slider .thumb {
+//    -fx-background-color: black;
+//    -fx-background-radius: 10;
+//    -fx-background-insets: 0;
+//    -fx-padding: 5;
+//}
+//
+//.slider .track {
+//    -fx-background-color: #c7c7c7;
+//}
+//
+//.slider .fill {
+//    -fx-background-color: #2e8b57;
+//}
+.button{
+	-fx-background-color:transparent;
+}
+.button:hover{
+	-fx-background-color:#dfdfdf;
+	-fx-background-radius:10px;
+}
+#pause:hover{
+	-fx-background-color:#415161;
+	-fx-background-radius:70px;
+}

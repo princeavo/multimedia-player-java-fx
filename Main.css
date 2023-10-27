@@ -1,0 +1,79 @@
+.button{
+	-fx-background-color:#124578;
+	-fx-background-radius:10px;
+	-fx-font-size:15px;
+	-fx-text-fill:#eae4e7;
+}
+.button:hover{
+	-fx-background-color:#053040;
+	-fx-background-radius:10px;
+	-fx-font-size:15px;
+	-fx-text-fill:#157682;
+}
+.button:pressed{
+	-fx-background-color:#121578;
+	-fx-background-radius:10px;
+	-fx-font-size:15px;
+	-fx-text-fill:#eae4e7;
+}
+
+#titre {
+    -fx-font-family: "Dancing Script";
+    -fx-font-size:40px;
+}
+//.table-cell{
+//	-fx-background-color:#c0c0c0;
+//}
+.table-row-cell:odd{
+	-fx-background-color:#b0d0f0;
+}
+.table-row-cell:hover{
+	-fx-background-color:#859476;
+}
+.table-view .table-cell{
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+.table-row-cell:filled:selected {
+  	-fx-background-color: #9a9a9a;
+}
+
+//.slider .track {
+//    -fx-background-color: #efefef; /* Couleur de fond de la piste */
+//}
+//
+//.slider .thumb {
+//    -fx-background-color:purple; /* Couleur de fond du bouton de pouce */
+//    -fx-background-radius: 50%; /* Pour que le bouton de pouce soit un cercle */
+//    -fx-color:transparent;
+////    -fx-background-insets: 0; /* Pour enlever les bordures */
+//    -fx-padding: 10; /* Pour enlever les marges internes */
+//}
+//
+//.slider .track .range {
+////  -fx-background-color: blue;
+//}
+
+
+
+//.slider .track {
+//    -fx-background-color: white;
+//}
+//
+//.slider .track .filled {
+//    -fx-background-color: #0a84ff;
+//}
+//
+//.slider .thumb {
+//    -fx-background-color: #0a84ff;
+//    -fx-background-insets: 0, 0, 0, 1;
+//    -fx-background-radius: 3px;
+//    -fx-padding: 3px;
+//}
+
+//.table-row-cell:empty{
+//	-fx-background-color:transparent;
+//}
+//.table-row-cell:empty .table-cell{	
+//	-fx-border-width:0px;
+//}
